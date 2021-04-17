@@ -13,5 +13,6 @@
 
 #### ->Download or clone my repo.
 #### ->Install python3, flask, flask_mysqldb. After installing python3 to install flask and flask_mysqldb run this commands "pip install flask" and "pip install flask_mysqldb".
+#### ->You need to setup a database in your mySql server.
 #### ->open cmd in the folder location and run the command "flask run".
 #### ->open http://127.0.0.1:5000/ in our browser.
