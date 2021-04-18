@@ -10,6 +10,9 @@
 #### The history will be also stored, the user can retrive the his search history.
 #### You can also delete the history.
 
+
+https://user-images.githubusercontent.com/67855672/115133348-1f0b4b00-a025-11eb-98ba-4d851f666d71.mp4
+
 ## How to access this web application in your local machine?
 
 #### ->Download or clone my repo.
